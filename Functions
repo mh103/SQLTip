@@ -1,0 +1,6 @@
+Aggregate Window Functions
+SUM(), MAX(), MIN(), AVG(). COUNT()
+Ranking Window Functions
+RANK(), DENSE_RANK(), ROW_NUMBER(), NTILE()
+Value Window Functions
+LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
